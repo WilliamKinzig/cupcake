@@ -1,0 +1,35 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 50px;
+  line-height: 50px;
+  font-size: 45px;
+  color: red;
+  text-shadow: 2px 2px green;
+}
+
+.intro {
+  font-size: 40px;
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2px green;
+}
+
+
+body {
+  background-image:url("../Images/7.jpg");
+  background-size: contain;
+  text-align: center;
+
+
+}
+
+.lable {
+  text-shadow: 2px 2px green;
+  color: red;
+  font-size: 70px;
+  text-align: center;
+}
